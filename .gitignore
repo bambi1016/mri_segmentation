@@ -1,0 +1,33 @@
+.DS_Store
+**/.DS_Store
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+**/*.jpg
+**/*.JPG
+**/*.jpeg
+**/*.JPEG
+**/*.png
+**/*.PNG
+**/*.pickle
+
+analysis/
+data/
+
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
